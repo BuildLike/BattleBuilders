@@ -1,6 +1,6 @@
 name: BattleBuilders
 main: Zade\BB
-api: [1.0.0, 2.0.0,3.0.0-ALPHA10]
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
 version: 5.0.0-Zade
 author: Zadezter
 

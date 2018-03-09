@@ -1,5 +1,5 @@
-| Poggit | Discord | HitCount | License |
-| :---: | :---: | :---: | :---: |
+| Poggit | Hit Counts |
+| :---: | :---: |
  [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders/~) | [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
 
 # BattleBuilders

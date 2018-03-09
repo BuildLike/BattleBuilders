@@ -1,6 +1,6 @@
 | Poggit-CI | HitCount |
 | :---: | | :---: |
-| [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Zadezter/BattleBuilders)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders)| [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
+ [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Zadezter/BattleBuilders)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders)| [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
 
 # BattleBuilders
 
@@ -27,4 +27,4 @@ This is a minigames plugin for Minecraft: Bedrock Edition servers!
 
 • New prefix!
 
-  and more...
+  and more....

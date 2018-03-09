@@ -1,6 +1,6 @@
-| Poggit | Author | HitCount |
-| :---: | :---: | | :---: |
-| [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Zadezter/BattleBuilders)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders) | Zadezter |<br /> | [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
+| Poggit | HitCount |
+| :---: | | :---: |
+| [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Zadezter/BattleBuilders)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders)| [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
 
 # BattleBuilders
 

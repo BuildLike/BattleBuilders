@@ -30,7 +30,7 @@ use pocketmine\event\entity\EntityLevelChangeEvent;
 
 class BB extends PluginBase implements Listener {
 
-        public $prefix = TE::GRAY . "+> " . TE::WHITE. TE::BOLD . "Battle" . TE::RED." Builders". TE::RESET . TE::GRAY . " <+";
+        public $prefix = TE::AQUA . "<+> " . TE::WHITE. TE::BOLD . "Battle" . TE::RED." Builders". TE::RESET . TE::AQUA . " <+> ";
 	public $mode = 0;
 	public $arenas = array();
 	public $currentLevel = "";
@@ -50,7 +50,7 @@ class BB extends PluginBase implements Listener {
 		{
 			$this->getServer()->loadLevel($lev);
 		}
-                $temas = array("Earth","Money","Car","Gun","Flag","Ball","Weapon","Head","Enderman","Zombie","Creeper","Skeleton");
+                $temas = array("Earth","Money","Car","Gun","Flag","Ball","Weapon","Head","Enderman","Zombie","Creeper","Skeleton","Cake","Smile","Sad");
 		if($config->get("temas")==null)
 		{
 			$config->set("temas",$temas);

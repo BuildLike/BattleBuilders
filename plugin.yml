@@ -1,0 +1,14 @@
+name: BattleBuilders
+main: Zade\BB
+api: [1.0.0, 2.0.0,3.0.0-ALPHA10]
+version: 5.0.0-Zade
+author: Zadezter
+
+commands:
+    bb:
+        usage: /bb <world>
+        description: Create a new Battle Builders arena!
+permissions:
+    bb.op:
+        default: op
+  

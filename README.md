@@ -22,6 +22,9 @@ This is a minigames plugin for Minecraft: Bedrock Edition servers!
 
 # Features!
 • Auto-Reset Arena Map!
+
 • New updated theme names!
+
 • New prefix!
-  **and more.
+
+  and more...

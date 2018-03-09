@@ -1,4 +1,6 @@
- [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Zadezter/BattleBuilders)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders)| [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
+| Poggit | Discord | HitCount | License |
+| :---: | :---: | :---: | :---: |
+ [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/ci/Zadezter/BattleBuilders/~) | [![HitCount](http://hits.dwyl.io/Zadezter/BattleBuilders.svg)](http://hits.dwyl.io/Zadezter/BattleBuilders)
 
 # BattleBuilders
 

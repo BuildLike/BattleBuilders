@@ -28,7 +28,8 @@ use pocketmine\level\sound\AnvilUseSound;
 use pocketmine\item\Item;
 use pocketmine\event\entity\EntityLevelChangeEvent;
 
-class BB extends PluginBase implements Listener
+class BB extends PluginBase implements Listener {
+	
         public $prefix = "§l§7[§b빌드배틀§7]§r§f";
 	public $mode = 0;
 	public $arenas = array();

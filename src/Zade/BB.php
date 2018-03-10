@@ -28,9 +28,8 @@ use pocketmine\level\sound\AnvilUseSound;
 use pocketmine\item\Item;
 use pocketmine\event\entity\EntityLevelChangeEvent;
 
-class BB extends PluginBase implements Listener {
-
-        public $prefix = TE::GRAY . "»• " . TE::WHITE. TE::BOLD . "Battle" . TE::RED." Builders". TE::RESET . TE::GRAY . " •«" . TE: :WHITE;
+class BB extends PluginBase implements Listener
+        public $prefix = "§l§7[§b빌드배틀§7]§r§f";
 	public $mode = 0;
 	public $arenas = array();
 	public $currentLevel = "";
@@ -50,7 +49,7 @@ class BB extends PluginBase implements Listener {
 		{
 			$this->getServer()->loadLevel($lev);
 		}
-                $temas = array("Earth","Money","Car","Gun","Flag","Ball","Weapon","Head","Enderman","Zombie","Creeper","Skeleton","Cake","Smile","Sad");
+                $temas = array("지구","돈","자동차","총","깃발","공","무기","머리","집","연못","침대","케이크","TV","노트북");
 		if($config->get("temas")==null)
 		{
 			$config->set("temas",$temas);

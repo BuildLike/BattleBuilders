@@ -30,7 +30,7 @@ use pocketmine\event\entity\EntityLevelChangeEvent;
 
 class BB extends PluginBase implements Listener {
 
-        public $prefix = TE::GRAY . "» " . TE::WHITE. TE::BOLD . "Battle" . TE::RED." Builders". TE::RESET . TE::GRAY . " «" . TE: :WHITE;
+        public $prefix = TE::GRAY . "»• " . TE::WHITE. TE::BOLD . "Battle" . TE::RED." Builders". TE::RESET . TE::GRAY . " •«" . TE: :WHITE;
 	public $mode = 0;
 	public $arenas = array();
 	public $currentLevel = "";
